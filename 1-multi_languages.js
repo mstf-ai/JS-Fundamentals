@@ -1,3 +1,5 @@
-let firstLine = "C is fun", secondLine = "Python is cool", thirdLine = "JavaScript is amazing";
+#!/usr/bin/node
 
-	console.log(firstLine . \n . secondLine . \n . thirdLine);
+console.log("C is fun");
+console.log("Python is cool");
+console.log("JavaScript is amazing");
